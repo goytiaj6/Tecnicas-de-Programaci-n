@@ -1,0 +1,12 @@
+D:\Clase\Aplicación_Biblioteca\bin\Debug\Aplicación_Biblioteca.exe.config
+D:\Clase\Aplicación_Biblioteca\bin\Debug\Aplicación_Biblioteca.exe
+D:\Clase\Aplicación_Biblioteca\bin\Debug\Aplicación_Biblioteca.pdb
+D:\Clase\Aplicación_Biblioteca\bin\Debug\MiPrimeraBiblioteca.dll
+D:\Clase\Aplicación_Biblioteca\bin\Debug\MiPrimeraBiblioteca.pdb
+D:\Clase\Aplicación_Biblioteca\obj\Debug\Aplicación_Biblioteca.csprojAssemblyReference.cache
+D:\Clase\Aplicación_Biblioteca\obj\Debug\Aplicación_Biblioteca.Form1.resources
+D:\Clase\Aplicación_Biblioteca\obj\Debug\Aplicación_Biblioteca.Properties.Resources.resources
+D:\Clase\Aplicación_Biblioteca\obj\Debug\Aplicación_Biblioteca.csproj.GenerateResource.cache
+D:\Clase\Aplicación_Biblioteca\obj\Debug\Aplicación_Biblioteca.csproj.CopyComplete
+D:\Clase\Aplicación_Biblioteca\obj\Debug\Aplicación_Biblioteca.exe
+D:\Clase\Aplicación_Biblioteca\obj\Debug\Aplicación_Biblioteca.pdb

@@ -1,0 +1,10 @@
+E:\Técnicas de programaión\Arreglo_Ejemplo\bin\Debug\Arreglo_Ejemplo.exe.config
+E:\Técnicas de programaión\Arreglo_Ejemplo\bin\Debug\Arreglo_Ejemplo.exe
+E:\Técnicas de programaión\Arreglo_Ejemplo\bin\Debug\Arreglo_Ejemplo.pdb
+E:\Técnicas de programaión\Arreglo_Ejemplo\obj\Debug\Arreglo_Ejemplo.csprojAssemblyReference.cache
+E:\Técnicas de programaión\Arreglo_Ejemplo\obj\Debug\Arreglo_Ejemplo.Form1.resources
+E:\Técnicas de programaión\Arreglo_Ejemplo\obj\Debug\Arreglo_Ejemplo.Properties.Resources.resources
+E:\Técnicas de programaión\Arreglo_Ejemplo\obj\Debug\Arreglo_Ejemplo.csproj.GenerateResource.cache
+E:\Técnicas de programaión\Arreglo_Ejemplo\obj\Debug\Arreglo_Ejemplo.csproj.CoreCompileInputs.cache
+E:\Técnicas de programaión\Arreglo_Ejemplo\obj\Debug\Arreglo_Ejemplo.exe
+E:\Técnicas de programaión\Arreglo_Ejemplo\obj\Debug\Arreglo_Ejemplo.pdb
