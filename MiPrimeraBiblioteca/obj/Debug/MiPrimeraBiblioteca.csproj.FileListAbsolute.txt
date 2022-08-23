@@ -1,0 +1,5 @@
+D:\Clase\MiPrimeraBiblioteca\bin\Debug\MiPrimeraBiblioteca.dll
+D:\Clase\MiPrimeraBiblioteca\bin\Debug\MiPrimeraBiblioteca.pdb
+D:\Clase\MiPrimeraBiblioteca\obj\Debug\MiPrimeraBiblioteca.csprojAssemblyReference.cache
+D:\Clase\MiPrimeraBiblioteca\obj\Debug\MiPrimeraBiblioteca.dll
+D:\Clase\MiPrimeraBiblioteca\obj\Debug\MiPrimeraBiblioteca.pdb
