@@ -1,0 +1,9 @@
+E:\Clase\Ejemplo_Encapsulamiento\obj\Debug\Ejemplo_Encapsulamiento.csprojAssemblyReference.cache
+E:\Clase\Ejemplo_Encapsulamiento\obj\Debug\Ejemplo_Encapsulamiento.Properties.Resources.resources
+E:\Clase\Ejemplo_Encapsulamiento\obj\Debug\Ejemplo_Encapsulamiento.csproj.GenerateResource.cache
+E:\Clase\Ejemplo_Encapsulamiento\obj\Debug\Ejemplo_Encapsulamiento.csproj.CoreCompileInputs.cache
+E:\Clase\Ejemplo_Encapsulamiento\bin\Debug\Ejemplo_Encapsulamiento.exe.config
+E:\Clase\Ejemplo_Encapsulamiento\bin\Debug\Ejemplo_Encapsulamiento.exe
+E:\Clase\Ejemplo_Encapsulamiento\bin\Debug\Ejemplo_Encapsulamiento.pdb
+E:\Clase\Ejemplo_Encapsulamiento\obj\Debug\Ejemplo_Encapsulamiento.exe
+E:\Clase\Ejemplo_Encapsulamiento\obj\Debug\Ejemplo_Encapsulamiento.pdb

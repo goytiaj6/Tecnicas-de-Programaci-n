@@ -1,0 +1,10 @@
+D:\Ejemplo_Ciclos\obj\Debug\Ejemplo_Ciclos.csprojAssemblyReference.cache
+D:\Ejemplo_Ciclos\obj\Debug\Ejemplo_Ciclos.Form1.resources
+D:\Ejemplo_Ciclos\obj\Debug\Ejemplo_Ciclos.Properties.Resources.resources
+D:\Ejemplo_Ciclos\obj\Debug\Ejemplo_Ciclos.csproj.GenerateResource.cache
+D:\Ejemplo_Ciclos\obj\Debug\Ejemplo_Ciclos.csproj.CoreCompileInputs.cache
+D:\Ejemplo_Ciclos\bin\Debug\Ejemplo_Ciclos.exe.config
+D:\Ejemplo_Ciclos\bin\Debug\Ejemplo_Ciclos.exe
+D:\Ejemplo_Ciclos\bin\Debug\Ejemplo_Ciclos.pdb
+D:\Ejemplo_Ciclos\obj\Debug\Ejemplo_Ciclos.exe
+D:\Ejemplo_Ciclos\obj\Debug\Ejemplo_Ciclos.pdb
